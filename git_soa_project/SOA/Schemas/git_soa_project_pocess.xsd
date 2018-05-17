@@ -6,8 +6,8 @@
 	<element name="process">
 		<complexType>
 			<sequence>
-				<element name="input1" type="string"/>
-    <element name="input2" type="string"/>
+				<element name="input12" type="string"/>
+                                <element name="input34" type="string"/>
    </sequence>
 		</complexType>
 	</element>
