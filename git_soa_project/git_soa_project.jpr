@@ -79,6 +79,7 @@
    <value n="defaultPackage" v="git_soa_project"/>
    <hash n="oracle.ide.model.TechnologyScopeConfiguration">
       <list n="technologyScope">
+         <string v="Maven"/>
          <string v="SOA"/>
          <string v="XML"/>
          <string v="XML_SCHEMA"/>
@@ -209,6 +210,9 @@
       <list n="profileList">
          <string v="git_soa_project"/>
       </list>
+   </hash>
+   <hash n="oracle.jdeveloper.maven.compiler.MavenConfiguration">
+      <url n="pomfileURL" path="pom.xml"/>
    </hash>
    <hash n="oracle.jdeveloper.model.J2eeSettings">
       <value n="j2eeWebAppName" v="GIT_SOA_APPLICATION-git_soa_project-webapp"/>
